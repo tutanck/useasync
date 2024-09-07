@@ -1,0 +1,45 @@
+{
+  "name": "useasync",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "<h1 align=\"center\">Welcome to useasync 👋</h1> <p>   <a href=\"https://www.npmjs.com/package/useasync\" target=\"_blank\">     <img alt=\"Version\" src=\"https://img.shields.io/npm/v/useasync.svg\">   </a>   <a href=\"#\" target=\"_blank\">     <img alt=\"License: ISC\" src=\"https://img.shields.io/badge/License-ISC-yellow.svg\" />   </a>   <a href=\"https://twitter.com/tutanck\" target=\"_blank\">     <img alt=\"Twitter: tutanck\" src=\"https://img.shields.io/twitter/follow/tutanck.svg?style=social\" />   </a> </p>",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tutanck",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/preset-react": "^7.18.6",
+    "cross-env": "7.0.3",
+    "env-cmd": "10.1.0",
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react-app": "^7.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "jest": "26.6.3",
+    "nodemon": "2.0.20",
+    "prettier": "^2.7.1",
+    "supertest": "6.3.3"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutanck/useasync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tutanck/useasync/issues"
+  },
+  "homepage": "https://github.com/tutanck/useasync#readme"
+}
