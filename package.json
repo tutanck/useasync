@@ -18,7 +18,9 @@
       "@babel/plugin-syntax-jsx"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/eslint-parser": "^7.19.1",
