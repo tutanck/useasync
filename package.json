@@ -2,7 +2,7 @@
   "name": "useasync",
   "type": "module",
   "version": "0.0.1",
-  "description": "<h1 align=\"center\">Welcome to Useasync 👋</h1> <p>   <a href=\"https://www.npmjs.com/package/useasync\" target=\"_blank\">     <img alt=\"Version\" src=\"https://img.shields.io/npm/v/lib.svg\">   </a>   <a href=\"#\" target=\"_blank\">     <img alt=\"License: ISC\" src=\"https://img.shields.io/badge/License-ISC-yellow.svg\" />   </a>   <a href=\"https://twitter.com/tutanck\" target=\"_blank\">     <img alt=\"Twitter: tutanck\" src=\"https://img.shields.io/twitter/follow/tutanck.svg?style=social\" />   </a> </p>",
+  "description": "<h1 align=\"center\">Welcome to useAsync 👋</h1> <p>   <a href=\"https://www.npmjs.com/package/useasync\" target=\"_blank\">     <img alt=\"Version\" src=\"https://img.shields.io/npm/v/lib.svg\">   </a>   <a href=\"#\" target=\"_blank\">     <img alt=\"License: ISC\" src=\"https://img.shields.io/badge/License-ISC-yellow.svg\" />   </a>   <a href=\"https://twitter.com/tutanck\" target=\"_blank\">     <img alt=\"Twitter: tutanck\" src=\"https://img.shields.io/twitter/follow/tutanck.svg?style=social\" />   </a> </p>",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
