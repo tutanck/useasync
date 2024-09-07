@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to lib 👋</h1>
+<h1 align="center">Welcome to useasync 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/lib" target="_blank">
+  <a href="https://www.npmjs.com/package/useasync" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/lib.svg">
   </a>
   <a href="#" target="_blank">
